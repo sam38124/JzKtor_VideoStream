@@ -32,5 +32,8 @@
 ### 2.Get video 
 
 ```kotlin
+//WebPage
 http://0.0.0.0:8080/VideoFrame/sam38999/root.m3u8
+//Soursce
+http://0.0.0.0:8080/VideoStream/sam38999/root.m3u8
 ```
