@@ -1,6 +1,4 @@
-# JzKtor_VideoStream
-
-## Server
+# Server
 ### You can create the hls video stream very simply by this framework!! 
 
 ``` kotlin
